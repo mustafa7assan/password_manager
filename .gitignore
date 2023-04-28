@@ -1,0 +1,6 @@
+# Ignore virtual environment files
+bin/
+lib/
+include/
+pip-selfcheck.json
+*.pyc
