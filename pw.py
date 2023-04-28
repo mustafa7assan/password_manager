@@ -45,14 +45,3 @@ else:
     add = input('Do want to add to it password manager [Y/N]: ')
     if add.lower() == 'y' or add.lower() == 'yes':
         add_account()
-
-
-'''
-echo "# password_manager" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin git@github.com:mustafa7assan/password_manager.git
-git push -u origin main
-'''
